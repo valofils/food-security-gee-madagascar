@@ -1,0 +1,477 @@
+district_id,district_name,year,month,drought_next_actual,drought_risk_prob,drought_alert,alert_result
+amboasary_atsimo,Amboasary-Atsimo,2023,1,1,0.3129182913638761,1,TP
+amboasary_atsimo,Amboasary-Atsimo,2023,2,0,0.2753309978283872,1,FP
+amboasary_atsimo,Amboasary-Atsimo,2023,3,0,0.10079386098605,0,TN
+amboasary_atsimo,Amboasary-Atsimo,2023,4,0,0.0986818816374238,0,TN
+amboasary_atsimo,Amboasary-Atsimo,2023,5,0,0.0471123922487761,0,TN
+amboasary_atsimo,Amboasary-Atsimo,2023,6,0,0.3851126453581794,1,FP
+amboasary_atsimo,Amboasary-Atsimo,2023,7,0,0.079727250200078,0,TN
+amboasary_atsimo,Amboasary-Atsimo,2023,8,1,0.2323920679954571,1,TP
+amboasary_atsimo,Amboasary-Atsimo,2023,9,0,0.4267696257687983,1,FP
+amboasary_atsimo,Amboasary-Atsimo,2023,10,0,0.273299401370445,1,FP
+amboasary_atsimo,Amboasary-Atsimo,2023,11,0,0.2900908980647431,1,FP
+amboasary_atsimo,Amboasary-Atsimo,2023,12,1,0.4249659810977023,1,TP
+amboasary_atsimo,Amboasary-Atsimo,2024,1,0,0.4048439074785352,1,FP
+amboasary_atsimo,Amboasary-Atsimo,2024,2,0,0.525848201615678,1,FP
+amboasary_atsimo,Amboasary-Atsimo,2024,3,1,0.0474807972804417,0,FN
+amboasary_atsimo,Amboasary-Atsimo,2024,4,1,0.11674418241649,0,FN
+amboasary_atsimo,Amboasary-Atsimo,2024,5,1,0.1087062964412621,0,FN
+amboasary_atsimo,Amboasary-Atsimo,2024,6,0,0.3120733369026978,1,FP
+amboasary_atsimo,Amboasary-Atsimo,2024,7,0,0.0922731530129653,0,TN
+amboasary_atsimo,Amboasary-Atsimo,2024,8,0,0.3285952905245015,1,FP
+amboasary_atsimo,Amboasary-Atsimo,2024,9,0,0.44874422300746,1,FP
+amboasary_atsimo,Amboasary-Atsimo,2024,10,0,0.3887681980885272,1,FP
+amboasary_atsimo,Amboasary-Atsimo,2024,11,1,0.4409201487018622,1,TP
+amboasary_atsimo,Amboasary-Atsimo,2024,12,1,0.6464268856130645,1,TP
+amboasary_atsimo,Amboasary-Atsimo,2025,1,0,0.7386559588323451,1,FP
+amboasary_atsimo,Amboasary-Atsimo,2025,2,0,0.3745232532877631,1,FP
+amboasary_atsimo,Amboasary-Atsimo,2025,3,0,0.1334938556481482,0,TN
+amboasary_atsimo,Amboasary-Atsimo,2025,4,0,0.1737576155653861,0,TN
+amboasary_atsimo,Amboasary-Atsimo,2025,5,0,0.1463973556794202,0,TN
+amboasary_atsimo,Amboasary-Atsimo,2025,6,0,0.373437245995762,1,FP
+amboasary_atsimo,Amboasary-Atsimo,2025,7,0,0.1122131675359271,0,TN
+amboasary_atsimo,Amboasary-Atsimo,2025,8,1,0.1452269831966116,0,FN
+amboasary_atsimo,Amboasary-Atsimo,2025,9,0,0.3169734615007306,1,FP
+amboasary_atsimo,Amboasary-Atsimo,2025,10,0,0.2523358407485138,1,FP
+ambovombe_androy,Ambovombe-Androy,2023,1,1,0.3007745726162162,1,TP
+ambovombe_androy,Ambovombe-Androy,2023,2,0,0.3668951146885915,1,FP
+ambovombe_androy,Ambovombe-Androy,2023,3,0,0.1752981067988332,0,TN
+ambovombe_androy,Ambovombe-Androy,2023,4,0,0.1893238602474154,0,TN
+ambovombe_androy,Ambovombe-Androy,2023,5,0,0.0439728712077628,0,TN
+ambovombe_androy,Ambovombe-Androy,2023,6,0,0.0776530266825151,0,TN
+ambovombe_androy,Ambovombe-Androy,2023,7,0,0.0172196671645655,0,TN
+ambovombe_androy,Ambovombe-Androy,2023,8,1,0.113156134281517,0,FN
+ambovombe_androy,Ambovombe-Androy,2023,9,0,0.358298554862537,1,FP
+ambovombe_androy,Ambovombe-Androy,2023,10,0,0.2027240875104846,1,FP
+ambovombe_androy,Ambovombe-Androy,2023,11,1,0.253143903064677,1,TP
+ambovombe_androy,Ambovombe-Androy,2023,12,1,0.5921053538959913,1,TP
+ambovombe_androy,Ambovombe-Androy,2024,1,0,0.4630927830070888,1,FP
+ambovombe_androy,Ambovombe-Androy,2024,2,0,0.6262426134693826,1,FP
+ambovombe_androy,Ambovombe-Androy,2024,3,0,0.1880627202256867,0,TN
+ambovombe_androy,Ambovombe-Androy,2024,4,1,0.1639868143695791,0,FN
+ambovombe_androy,Ambovombe-Androy,2024,5,1,0.4233635975644901,1,TP
+ambovombe_androy,Ambovombe-Androy,2024,6,0,0.2423479527762387,1,FP
+ambovombe_androy,Ambovombe-Androy,2024,7,0,0.1267655670225445,0,TN
+ambovombe_androy,Ambovombe-Androy,2024,8,0,0.1725946822152538,0,TN
+ambovombe_androy,Ambovombe-Androy,2024,9,0,0.3306774852737302,1,FP
+ambovombe_androy,Ambovombe-Androy,2024,10,0,0.2853943678516777,1,FP
+ambovombe_androy,Ambovombe-Androy,2024,11,1,0.3910723830900669,1,TP
+ambovombe_androy,Ambovombe-Androy,2024,12,1,0.7061834374746829,1,TP
+ambovombe_androy,Ambovombe-Androy,2025,1,0,0.793389674765781,1,FP
+ambovombe_androy,Ambovombe-Androy,2025,2,0,0.4564543049298482,1,FP
+ambovombe_androy,Ambovombe-Androy,2025,3,0,0.1394826036117773,0,TN
+ambovombe_androy,Ambovombe-Androy,2025,4,0,0.0797272663767292,0,TN
+ambovombe_androy,Ambovombe-Androy,2025,5,0,0.0553070904804177,0,TN
+ambovombe_androy,Ambovombe-Androy,2025,6,0,0.1076017975201001,0,TN
+ambovombe_androy,Ambovombe-Androy,2025,7,0,0.0836008841517359,0,TN
+ambovombe_androy,Ambovombe-Androy,2025,8,1,0.0520747736923768,0,FN
+ambovombe_androy,Ambovombe-Androy,2025,9,0,0.1470934984514422,0,TN
+ambovombe_androy,Ambovombe-Androy,2025,10,0,0.2021478841311625,1,FP
+ampanihy_ouest,Ampanihy Ouest,2023,1,0,0.2167182078137556,1,FP
+ampanihy_ouest,Ampanihy Ouest,2023,2,0,0.3515997324075114,1,FP
+ampanihy_ouest,Ampanihy Ouest,2023,3,0,0.1018438347734537,0,TN
+ampanihy_ouest,Ampanihy Ouest,2023,4,0,0.0686745224207346,0,TN
+ampanihy_ouest,Ampanihy Ouest,2023,5,0,0.0105551481545249,0,TN
+ampanihy_ouest,Ampanihy Ouest,2023,6,0,0.011673772992551,0,TN
+ampanihy_ouest,Ampanihy Ouest,2023,7,0,0.0106531576569434,0,TN
+ampanihy_ouest,Ampanihy Ouest,2023,8,0,0.0239907649917734,0,TN
+ampanihy_ouest,Ampanihy Ouest,2023,9,0,0.2215216839984273,1,FP
+ampanihy_ouest,Ampanihy Ouest,2023,10,0,0.1589841059526398,0,TN
+ampanihy_ouest,Ampanihy Ouest,2023,11,1,0.2175329848358438,1,TP
+ampanihy_ouest,Ampanihy Ouest,2023,12,1,0.444407072433251,1,TP
+ampanihy_ouest,Ampanihy Ouest,2024,1,0,0.6789458995079286,1,FP
+ampanihy_ouest,Ampanihy Ouest,2024,2,0,0.5120113475333141,1,FP
+ampanihy_ouest,Ampanihy Ouest,2024,3,0,0.2440703847191074,1,FP
+ampanihy_ouest,Ampanihy Ouest,2024,4,0,0.0823226383017535,0,TN
+ampanihy_ouest,Ampanihy Ouest,2024,5,0,0.0862606741097229,0,TN
+ampanihy_ouest,Ampanihy Ouest,2024,6,0,0.014128186452197,0,TN
+ampanihy_ouest,Ampanihy Ouest,2024,7,0,0.0527604399693021,0,TN
+ampanihy_ouest,Ampanihy Ouest,2024,8,0,0.0893236306211751,0,TN
+ampanihy_ouest,Ampanihy Ouest,2024,9,0,0.2814914700279866,1,FP
+ampanihy_ouest,Ampanihy Ouest,2024,10,1,0.3350607636241893,1,TP
+ampanihy_ouest,Ampanihy Ouest,2024,11,1,0.3320310805998291,1,TP
+ampanihy_ouest,Ampanihy Ouest,2024,12,0,0.5161870987718409,1,FP
+ampanihy_ouest,Ampanihy Ouest,2025,1,0,0.5174438341913918,1,FP
+ampanihy_ouest,Ampanihy Ouest,2025,2,0,0.23506217425496,1,FP
+ampanihy_ouest,Ampanihy Ouest,2025,3,0,0.13000818873758,0,TN
+ampanihy_ouest,Ampanihy Ouest,2025,4,0,0.0607885303858041,0,TN
+ampanihy_ouest,Ampanihy Ouest,2025,5,0,0.0378059670795314,0,TN
+ampanihy_ouest,Ampanihy Ouest,2025,6,0,0.0374774497078045,0,TN
+ampanihy_ouest,Ampanihy Ouest,2025,7,0,0.0576490661655856,0,TN
+ampanihy_ouest,Ampanihy Ouest,2025,8,0,0.0640618688119938,0,TN
+ampanihy_ouest,Ampanihy Ouest,2025,9,1,0.096098312499891,0,FN
+ampanihy_ouest,Ampanihy Ouest,2025,10,0,0.1973375875913665,0,TN
+ankazoabo,Ankazoabo,2023,1,0,0.4191199593885685,1,FP
+ankazoabo,Ankazoabo,2023,2,0,0.2238497367856055,1,FP
+ankazoabo,Ankazoabo,2023,3,0,0.0884347068999875,0,TN
+ankazoabo,Ankazoabo,2023,4,0,0.0419658440339504,0,TN
+ankazoabo,Ankazoabo,2023,5,0,0.0203166104632971,0,TN
+ankazoabo,Ankazoabo,2023,6,0,0.0072821974009262,0,TN
+ankazoabo,Ankazoabo,2023,7,0,0.0002647193186222,0,TN
+ankazoabo,Ankazoabo,2023,8,0,0.021335364537932,0,TN
+ankazoabo,Ankazoabo,2023,9,1,0.2240723495556251,1,TP
+ankazoabo,Ankazoabo,2023,10,1,0.2269534382778666,1,TP
+ankazoabo,Ankazoabo,2023,11,1,0.3807381880653032,1,TP
+ankazoabo,Ankazoabo,2023,12,0,0.4730834789244644,1,FP
+ankazoabo,Ankazoabo,2024,1,0,0.3563913235574451,1,FP
+ankazoabo,Ankazoabo,2024,2,0,0.3308714205796708,1,FP
+ankazoabo,Ankazoabo,2024,3,0,0.0830191111489923,0,TN
+ankazoabo,Ankazoabo,2024,4,0,0.0354032135993033,0,TN
+ankazoabo,Ankazoabo,2024,5,0,0.0180129971940901,0,TN
+ankazoabo,Ankazoabo,2024,6,0,0.0083119174650524,0,TN
+ankazoabo,Ankazoabo,2024,7,0,0.0002647193186222,0,TN
+ankazoabo,Ankazoabo,2024,8,0,0.0202862495901813,0,TN
+ankazoabo,Ankazoabo,2024,9,0,0.2047987813970437,1,FP
+ankazoabo,Ankazoabo,2024,10,0,0.1774367435498921,0,TN
+ankazoabo,Ankazoabo,2024,11,1,0.1214568370674476,0,FN
+ankazoabo,Ankazoabo,2024,12,0,0.3998978389436786,1,FP
+ankazoabo,Ankazoabo,2025,1,0,0.4369663914866832,1,FP
+ankazoabo,Ankazoabo,2025,2,1,0.2932335083100425,1,TP
+ankazoabo,Ankazoabo,2025,3,0,0.1333169806669326,0,TN
+ankazoabo,Ankazoabo,2025,4,0,0.0773622761553022,0,TN
+ankazoabo,Ankazoabo,2025,5,0,0.0337237174748889,0,TN
+ankazoabo,Ankazoabo,2025,6,0,0.0173606894321926,0,TN
+ankazoabo,Ankazoabo,2025,7,0,0.0273198243236101,0,TN
+ankazoabo,Ankazoabo,2025,8,0,0.0372606278272643,0,TN
+ankazoabo,Ankazoabo,2025,9,1,0.1995746291284497,0,FN
+ankazoabo,Ankazoabo,2025,10,0,0.222967539704167,1,FP
+bekily,Bekily,2023,1,0,0.2668740128129825,1,FP
+bekily,Bekily,2023,2,0,0.3755293340100008,1,FP
+bekily,Bekily,2023,3,0,0.1685521885234337,0,TN
+bekily,Bekily,2023,4,0,0.0989054600062821,0,TN
+bekily,Bekily,2023,5,0,0.0139345847564107,0,TN
+bekily,Bekily,2023,6,0,0.0045856117461511,0,TN
+bekily,Bekily,2023,7,0,0.0243170323715414,0,TN
+bekily,Bekily,2023,8,0,0.0804767691171359,0,TN
+bekily,Bekily,2023,9,0,0.4134780964526707,1,FP
+bekily,Bekily,2023,10,0,0.1457418443821701,0,TN
+bekily,Bekily,2023,11,1,0.3709130347810396,1,TP
+bekily,Bekily,2023,12,1,0.4480591238160118,1,TP
+bekily,Bekily,2024,1,0,0.3655379162288155,1,FP
+bekily,Bekily,2024,2,0,0.5332277683074846,1,FP
+bekily,Bekily,2024,3,0,0.1148961846889231,0,TN
+bekily,Bekily,2024,4,0,0.0633892255773224,0,TN
+bekily,Bekily,2024,5,0,0.0506713903400014,0,TN
+bekily,Bekily,2024,6,0,0.0475417144857617,0,TN
+bekily,Bekily,2024,7,0,0.0894971108441417,0,TN
+bekily,Bekily,2024,8,0,0.0515197075864537,0,TN
+bekily,Bekily,2024,9,0,0.2132688394274964,1,FP
+bekily,Bekily,2024,10,0,0.2644790311364213,1,FP
+bekily,Bekily,2024,11,1,0.2187008332798467,1,TP
+bekily,Bekily,2024,12,0,0.558934589053794,1,FP
+bekily,Bekily,2025,1,0,0.6325461010273294,1,FP
+bekily,Bekily,2025,2,0,0.2047068329951636,1,FP
+bekily,Bekily,2025,3,0,0.1018726592045534,0,TN
+bekily,Bekily,2025,4,0,0.167986192814019,0,TN
+bekily,Bekily,2025,5,0,0.0521082201773288,0,TN
+bekily,Bekily,2025,6,0,0.027911749610347,0,TN
+bekily,Bekily,2025,7,0,0.0539101934683643,0,TN
+bekily,Bekily,2025,8,0,0.0704702401503789,0,TN
+bekily,Bekily,2025,9,0,0.3000043501052395,1,FP
+bekily,Bekily,2025,10,0,0.2182075068817081,1,FP
+beloha,Beloha,2023,1,1,0.2113340974897138,1,TP
+beloha,Beloha,2023,2,0,0.293603950114269,1,FP
+beloha,Beloha,2023,3,0,0.1174278776423873,0,TN
+beloha,Beloha,2023,4,0,0.0481202612242394,0,TN
+beloha,Beloha,2023,5,0,0.0109271020407595,0,TN
+beloha,Beloha,2023,6,0,0.0275633336888426,0,TN
+beloha,Beloha,2023,7,0,0.0300941502694081,0,TN
+beloha,Beloha,2023,8,0,0.0599121833147361,0,TN
+beloha,Beloha,2023,9,0,0.2401263212513635,1,FP
+beloha,Beloha,2023,10,0,0.1914070425296236,0,TN
+beloha,Beloha,2023,11,1,0.1191045054049363,0,FN
+beloha,Beloha,2023,12,1,0.3917009688240357,1,TP
+beloha,Beloha,2024,1,0,0.4803887639548091,1,FP
+beloha,Beloha,2024,2,0,0.5133561374732553,1,FP
+beloha,Beloha,2024,3,0,0.1854007591195697,0,TN
+beloha,Beloha,2024,4,0,0.1032824840984567,0,TN
+beloha,Beloha,2024,5,0,0.0243965623601472,0,TN
+beloha,Beloha,2024,6,0,0.0192461833537526,0,TN
+beloha,Beloha,2024,7,0,0.0816870189510637,0,TN
+beloha,Beloha,2024,8,0,0.0404358396217816,0,TN
+beloha,Beloha,2024,9,0,0.2629723654811627,1,FP
+beloha,Beloha,2024,10,1,0.3290385925798015,1,TP
+beloha,Beloha,2024,11,1,0.3655162367258002,1,TP
+beloha,Beloha,2024,12,0,0.5254002654350606,1,FP
+beloha,Beloha,2025,1,0,0.5952487232099443,1,FP
+beloha,Beloha,2025,2,0,0.3406869198828381,1,FP
+beloha,Beloha,2025,3,0,0.1861984561097003,0,TN
+beloha,Beloha,2025,4,0,0.0496733714984068,0,TN
+beloha,Beloha,2025,5,0,0.0302441641237959,0,TN
+beloha,Beloha,2025,6,0,0.0364405686381915,0,TN
+beloha,Beloha,2025,7,0,0.0926048994262813,0,TN
+beloha,Beloha,2025,8,0,0.0607888669767602,0,TN
+beloha,Beloha,2025,9,0,0.0954109324903311,0,TN
+beloha,Beloha,2025,10,0,0.1876063497371439,0,TN
+benenitra,Benenitra,2023,1,0,0.4392207398902616,1,FP
+benenitra,Benenitra,2023,2,0,0.4208363060964399,1,FP
+benenitra,Benenitra,2023,3,0,0.2106993678002499,1,FP
+benenitra,Benenitra,2023,4,0,0.141258221283764,0,TN
+benenitra,Benenitra,2023,5,0,0.0458241805531119,0,TN
+benenitra,Benenitra,2023,6,0,0.0272505361262425,0,TN
+benenitra,Benenitra,2023,7,0,0.0274208165672662,0,TN
+benenitra,Benenitra,2023,8,0,0.1161827444016842,0,TN
+benenitra,Benenitra,2023,9,1,0.2607017513290012,1,TP
+benenitra,Benenitra,2023,10,1,0.2659620706351616,1,TP
+benenitra,Benenitra,2023,11,1,0.4661827861479861,1,TP
+benenitra,Benenitra,2023,12,0,0.5042558379066148,1,FP
+benenitra,Benenitra,2024,1,0,0.5052685951758256,1,FP
+benenitra,Benenitra,2024,2,0,0.4802638998226053,1,FP
+benenitra,Benenitra,2024,3,0,0.1692844449790393,0,TN
+benenitra,Benenitra,2024,4,1,0.0608655239120353,0,FN
+benenitra,Benenitra,2024,5,0,0.0501319157418507,0,TN
+benenitra,Benenitra,2024,6,0,0.0172756065284629,0,TN
+benenitra,Benenitra,2024,7,0,0.0336990448956116,0,TN
+benenitra,Benenitra,2024,8,0,0.091621651728993,0,TN
+benenitra,Benenitra,2024,9,0,0.2120629985498357,1,FP
+benenitra,Benenitra,2024,10,0,0.222792874205479,1,FP
+benenitra,Benenitra,2024,11,1,0.2293746787734183,1,TP
+benenitra,Benenitra,2024,12,0,0.4013170529407525,1,FP
+benenitra,Benenitra,2025,1,0,0.6113312840351275,1,FP
+benenitra,Benenitra,2025,2,0,0.2944723695742264,1,FP
+benenitra,Benenitra,2025,3,0,0.1338738123567351,0,TN
+benenitra,Benenitra,2025,4,0,0.0855841468965738,0,TN
+benenitra,Benenitra,2025,5,0,0.0261534793538517,0,TN
+benenitra,Benenitra,2025,6,0,0.0108269923654297,0,TN
+benenitra,Benenitra,2025,7,0,0.0605473042519198,0,TN
+benenitra,Benenitra,2025,8,0,0.0811691405699964,0,TN
+benenitra,Benenitra,2025,9,1,0.2688714706476953,1,TP
+benenitra,Benenitra,2025,10,0,0.2563031930561564,1,FP
+beroroha,Beroroha,2023,1,1,0.4004558132105248,1,TP
+beroroha,Beroroha,2023,2,0,0.2043743811366126,1,FP
+beroroha,Beroroha,2023,3,0,0.1360887657165788,0,TN
+beroroha,Beroroha,2023,4,0,0.0550680611318359,0,TN
+beroroha,Beroroha,2023,5,0,0.0645013248881647,0,TN
+beroroha,Beroroha,2023,6,0,0.0339488640675928,0,TN
+beroroha,Beroroha,2023,7,0,0.0007451504297268,0,TN
+beroroha,Beroroha,2023,8,0,0.0113646107560632,0,TN
+beroroha,Beroroha,2023,9,0,0.1943614580200677,0,TN
+beroroha,Beroroha,2023,10,1,0.1303504729997276,0,FN
+beroroha,Beroroha,2023,11,1,0.3502104628050622,1,TP
+beroroha,Beroroha,2023,12,0,0.5973761040330278,1,FP
+beroroha,Beroroha,2024,1,0,0.5773635148480358,1,FP
+beroroha,Beroroha,2024,2,0,0.2223312565663504,1,FP
+beroroha,Beroroha,2024,3,0,0.0907663267889975,0,TN
+beroroha,Beroroha,2024,4,0,0.0622147442614659,0,TN
+beroroha,Beroroha,2024,5,0,0.0602643826998675,0,TN
+beroroha,Beroroha,2024,6,0,0.0483119174650524,0,TN
+beroroha,Beroroha,2024,7,0,0.0102647193186222,0,TN
+beroroha,Beroroha,2024,8,0,0.0246559623131339,0,TN
+beroroha,Beroroha,2024,9,0,0.1626201781466809,0,TN
+beroroha,Beroroha,2024,10,0,0.1785306375736987,0,TN
+beroroha,Beroroha,2024,11,1,0.1510581587166089,0,FN
+beroroha,Beroroha,2024,12,0,0.3748220133566463,1,FP
+beroroha,Beroroha,2025,1,0,0.4184111673841953,1,FP
+beroroha,Beroroha,2025,2,1,0.2399244370804644,1,TP
+beroroha,Beroroha,2025,3,0,0.1305564572949185,0,TN
+beroroha,Beroroha,2025,4,0,0.0547319002101214,0,TN
+beroroha,Beroroha,2025,5,0,0.0373305970817685,0,TN
+beroroha,Beroroha,2025,6,0,0.0139422731951296,0,TN
+beroroha,Beroroha,2025,7,0,0.0339864909902768,0,TN
+beroroha,Beroroha,2025,8,0,0.0372606278272643,0,TN
+beroroha,Beroroha,2025,9,0,0.1634348659547692,0,TN
+beroroha,Beroroha,2025,10,0,0.227024976986684,1,FP
+betioky_atsimo,Betioky Atsimo,2023,1,0,0.2448844428852533,1,FP
+betioky_atsimo,Betioky Atsimo,2023,2,0,0.3120914381500517,1,FP
+betioky_atsimo,Betioky Atsimo,2023,3,0,0.0757206716384466,0,TN
+betioky_atsimo,Betioky Atsimo,2023,4,0,0.0447092128939539,0,TN
+betioky_atsimo,Betioky Atsimo,2023,5,0,0.0104371254302457,0,TN
+betioky_atsimo,Betioky Atsimo,2023,6,0,0.0238568712948095,0,TN
+betioky_atsimo,Betioky Atsimo,2023,7,0,0.0106531576569434,0,TN
+betioky_atsimo,Betioky Atsimo,2023,8,0,0.0206892651104152,0,TN
+betioky_atsimo,Betioky Atsimo,2023,9,0,0.3770612450294934,1,FP
+betioky_atsimo,Betioky Atsimo,2023,10,1,0.2841940627239134,1,TP
+betioky_atsimo,Betioky Atsimo,2023,11,1,0.6325013873031463,1,TP
+betioky_atsimo,Betioky Atsimo,2023,12,1,0.791554432490494,1,TP
+betioky_atsimo,Betioky Atsimo,2024,1,0,0.6616441277555422,1,FP
+betioky_atsimo,Betioky Atsimo,2024,2,0,0.4799745771518099,1,FP
+betioky_atsimo,Betioky Atsimo,2024,3,0,0.0961194804510661,0,TN
+betioky_atsimo,Betioky Atsimo,2024,4,0,0.0142754389650046,0,TN
+betioky_atsimo,Betioky Atsimo,2024,5,0,0.0240328113948681,0,TN
+betioky_atsimo,Betioky Atsimo,2024,6,0,0.0131284357933276,0,TN
+betioky_atsimo,Betioky Atsimo,2024,7,0,0.0168993062585236,0,TN
+betioky_atsimo,Betioky Atsimo,2024,8,0,0.0672308687098314,0,TN
+betioky_atsimo,Betioky Atsimo,2024,9,0,0.2979897929403925,1,FP
+betioky_atsimo,Betioky Atsimo,2024,10,0,0.3870088177143382,1,FP
+betioky_atsimo,Betioky Atsimo,2024,11,1,0.2571039592182126,1,TP
+betioky_atsimo,Betioky Atsimo,2024,12,0,0.555408749681754,1,FP
+betioky_atsimo,Betioky Atsimo,2025,1,0,0.5887502636671901,1,FP
+betioky_atsimo,Betioky Atsimo,2025,2,0,0.3034646321040352,1,FP
+betioky_atsimo,Betioky Atsimo,2025,3,0,0.0988418384375341,0,TN
+betioky_atsimo,Betioky Atsimo,2025,4,0,0.0236476553069445,0,TN
+betioky_atsimo,Betioky Atsimo,2025,5,0,0.0203903841415555,0,TN
+betioky_atsimo,Betioky Atsimo,2025,6,0,0.0106089398617963,0,TN
+betioky_atsimo,Betioky Atsimo,2025,7,0,0.0406531576569434,0,TN
+betioky_atsimo,Betioky Atsimo,2025,8,0,0.0405618814338324,0,TN
+betioky_atsimo,Betioky Atsimo,2025,9,1,0.2120427809408854,1,TP
+betioky_atsimo,Betioky Atsimo,2025,10,0,0.3085235486753636,1,FP
+betroka,Betroka,2023,1,0,0.4119431825848534,1,FP
+betroka,Betroka,2023,2,0,0.3414638000016257,1,FP
+betroka,Betroka,2023,3,0,0.1927977742974105,0,TN
+betroka,Betroka,2023,4,0,0.1128156833422722,0,TN
+betroka,Betroka,2023,5,0,0.0525040202127561,0,TN
+betroka,Betroka,2023,6,0,0.0244942688675656,0,TN
+betroka,Betroka,2023,7,0,0.0272877445968448,0,TN
+betroka,Betroka,2023,8,0,0.0808231812514609,0,TN
+betroka,Betroka,2023,9,0,0.2914220180018505,1,FP
+betroka,Betroka,2023,10,1,0.2400416152593346,1,TP
+betroka,Betroka,2023,11,1,0.3194739623028442,1,TP
+betroka,Betroka,2023,12,0,0.5862857783591798,1,FP
+betroka,Betroka,2024,1,0,0.3624677044208515,1,FP
+betroka,Betroka,2024,2,0,0.2614564360167769,1,FP
+betroka,Betroka,2024,3,0,0.1034628921144383,0,TN
+betroka,Betroka,2024,4,0,0.0231030872785204,0,TN
+betroka,Betroka,2024,5,0,0.0452381668868649,0,TN
+betroka,Betroka,2024,6,0,0.021111749702976,0,TN
+betroka,Betroka,2024,7,0,0.0372877445968448,0,TN
+betroka,Betroka,2024,8,0,0.0906825458748573,0,TN
+betroka,Betroka,2024,9,1,0.2852609880194247,1,TP
+betroka,Betroka,2024,10,0,0.2782080069707331,1,FP
+betroka,Betroka,2024,11,1,0.207955919301761,1,TP
+betroka,Betroka,2024,12,0,0.4265357220201444,1,FP
+betroka,Betroka,2025,1,0,0.5358031070274768,1,FP
+betroka,Betroka,2025,2,0,0.275042082592173,1,FP
+betroka,Betroka,2025,3,0,0.1156455442060417,0,TN
+betroka,Betroka,2025,4,0,0.2085835419818877,1,FP
+betroka,Betroka,2025,5,0,0.081150544658116,0,TN
+betroka,Betroka,2025,6,0,0.0799439877047117,0,TN
+betroka,Betroka,2025,7,0,0.0865406717253674,0,TN
+betroka,Betroka,2025,8,0,0.0939026505645357,0,TN
+betroka,Betroka,2025,9,1,0.2865968595446327,1,TP
+betroka,Betroka,2025,10,0,0.2238181879427541,1,FP
+morombe,Morombe,2023,1,0,0.4125323893665283,1,FP
+morombe,Morombe,2023,2,0,0.1839418299483594,0,TN
+morombe,Morombe,2023,3,0,0.1393601766390388,0,TN
+morombe,Morombe,2023,4,0,0.0862681408659521,0,TN
+morombe,Morombe,2023,5,0,0.0308222114321134,0,TN
+morombe,Morombe,2023,6,0,0.0206563820933844,0,TN
+morombe,Morombe,2023,7,0,0.0072778113755265,0,TN
+morombe,Morombe,2023,8,0,0.0112693068062457,0,TN
+morombe,Morombe,2023,9,0,0.1362690369951927,0,TN
+morombe,Morombe,2023,10,1,0.0880035186211484,0,FN
+morombe,Morombe,2023,11,1,0.3224424160534913,1,TP
+morombe,Morombe,2023,12,1,0.500116545820942,1,TP
+morombe,Morombe,2024,1,1,0.358065381286395,1,TP
+morombe,Morombe,2024,2,0,0.3610739840268844,1,FP
+morombe,Morombe,2024,3,0,0.1878343659416465,0,TN
+morombe,Morombe,2024,4,0,0.1092383494146095,0,TN
+morombe,Morombe,2024,5,0,0.0503166104632971,0,TN
+morombe,Morombe,2024,6,0,0.0106563820933844,0,TN
+morombe,Morombe,2024,7,0,0.0107703202874384,0,TN
+morombe,Morombe,2024,8,0,0.0135662607499597,0,TN
+morombe,Morombe,2024,9,0,0.1383611270753796,0,TN
+morombe,Morombe,2024,10,0,0.1151096967324603,0,TN
+morombe,Morombe,2024,11,1,0.1258906808688051,0,FN
+morombe,Morombe,2024,12,0,0.4419891435132296,1,FP
+morombe,Morombe,2025,1,0,0.5102332883851667,1,FP
+morombe,Morombe,2025,2,0,0.2097362232510743,1,FP
+morombe,Morombe,2025,3,0,0.1146036467021308,0,TN
+morombe,Morombe,2025,4,0,0.1337591132074523,0,TN
+morombe,Morombe,2025,5,0,0.0637237174748889,0,TN
+morombe,Morombe,2025,6,0,0.0374084506603712,0,TN
+morombe,Morombe,2025,7,0,0.044119335122185,0,TN
+morombe,Morombe,2025,8,0,0.0372606278272643,0,TN
+morombe,Morombe,2025,9,0,0.1045142216011805,0,TN
+morombe,Morombe,2025,10,1,0.1998418328975507,0,FN
+sakaraha,Sakaraha,2023,1,0,0.3537909756576898,1,FP
+sakaraha,Sakaraha,2023,2,0,0.232030923749602,1,FP
+sakaraha,Sakaraha,2023,3,0,0.095109626679957,0,TN
+sakaraha,Sakaraha,2023,4,0,0.0521323810610152,0,TN
+sakaraha,Sakaraha,2023,5,0,0.0203903841415555,0,TN
+sakaraha,Sakaraha,2023,6,0,0.0073675993012463,0,TN
+sakaraha,Sakaraha,2023,7,0,0.0006531576569434,0,TN
+sakaraha,Sakaraha,2023,8,0,0.0285196948432839,0,TN
+sakaraha,Sakaraha,2023,9,1,0.2601469064853336,1,TP
+sakaraha,Sakaraha,2023,10,1,0.3569447238663426,1,TP
+sakaraha,Sakaraha,2023,11,1,0.4934037503065681,1,TP
+sakaraha,Sakaraha,2023,12,0,0.5430019696253688,1,FP
+sakaraha,Sakaraha,2024,1,0,0.3893996449882946,1,FP
+sakaraha,Sakaraha,2024,2,0,0.2953399264031069,1,FP
+sakaraha,Sakaraha,2024,3,0,0.0796857778156589,0,TN
+sakaraha,Sakaraha,2024,4,0,0.0365169281060267,0,TN
+sakaraha,Sakaraha,2024,5,0,0.0120454135517563,0,TN
+sakaraha,Sakaraha,2024,6,0,0.0138568712948095,0,TN
+sakaraha,Sakaraha,2024,7,0,0.0235659729251902,0,TN
+sakaraha,Sakaraha,2024,8,0,0.027921147267131,0,TN
+sakaraha,Sakaraha,2024,9,0,0.3474693333263575,1,FP
+sakaraha,Sakaraha,2024,10,0,0.228147758159328,1,FP
+sakaraha,Sakaraha,2024,11,1,0.2088500033080443,1,TP
+sakaraha,Sakaraha,2024,12,0,0.4619090269919756,1,FP
+sakaraha,Sakaraha,2025,1,0,0.4138793132642652,1,FP
+sakaraha,Sakaraha,2025,2,0,0.2538362505747767,1,FP
+sakaraha,Sakaraha,2025,3,0,0.1062764543742105,0,TN
+sakaraha,Sakaraha,2025,4,0,0.0477830531507678,0,TN
+sakaraha,Sakaraha,2025,5,0,0.0507493323154219,0,TN
+sakaraha,Sakaraha,2025,6,0,0.0239422731951296,0,TN
+sakaraha,Sakaraha,2025,7,0,0.0609823994989189,0,TN
+sakaraha,Sakaraha,2025,8,0,0.0516889651889785,0,TN
+sakaraha,Sakaraha,2025,9,1,0.2646158664178144,1,TP
+sakaraha,Sakaraha,2025,10,0,0.3250927184785409,1,FP
+taolagnaro,Taolagnaro,2023,1,1,0.3842759004433407,1,TP
+taolagnaro,Taolagnaro,2023,2,0,0.2625713529244255,1,FP
+taolagnaro,Taolagnaro,2023,3,1,0.2151777176829716,1,TP
+taolagnaro,Taolagnaro,2023,4,1,0.2738328147597695,1,TP
+taolagnaro,Taolagnaro,2023,5,1,0.253004899954896,1,TP
+taolagnaro,Taolagnaro,2023,6,1,0.3035846879964104,1,TP
+taolagnaro,Taolagnaro,2023,7,0,0.233901928725245,1,FP
+taolagnaro,Taolagnaro,2023,8,1,0.2439331000853173,1,TP
+taolagnaro,Taolagnaro,2023,9,0,0.4491444582718998,1,FP
+taolagnaro,Taolagnaro,2023,10,0,0.3852218418396978,1,FP
+taolagnaro,Taolagnaro,2023,11,1,0.5508316531464533,1,TP
+taolagnaro,Taolagnaro,2023,12,1,0.5672990874979719,1,TP
+taolagnaro,Taolagnaro,2024,1,1,0.4842345321067332,1,TP
+taolagnaro,Taolagnaro,2024,2,0,0.2792239138765507,1,FP
+taolagnaro,Taolagnaro,2024,3,1,0.2675452393893018,1,TP
+taolagnaro,Taolagnaro,2024,4,1,0.228911598584912,1,TP
+taolagnaro,Taolagnaro,2024,5,0,0.3521305875951113,1,FP
+taolagnaro,Taolagnaro,2024,6,0,0.38264002512833,1,FP
+taolagnaro,Taolagnaro,2024,7,0,0.1977882213528033,0,TN
+taolagnaro,Taolagnaro,2024,8,0,0.2470098158097576,1,FP
+taolagnaro,Taolagnaro,2024,9,0,0.394295658063922,1,FP
+taolagnaro,Taolagnaro,2024,10,0,0.5247963750660909,1,FP
+taolagnaro,Taolagnaro,2024,11,1,0.6201196547053598,1,TP
+taolagnaro,Taolagnaro,2024,12,1,0.8384135022916933,1,TP
+taolagnaro,Taolagnaro,2025,1,1,0.4918274629409082,1,TP
+taolagnaro,Taolagnaro,2025,2,0,0.306227813051922,1,FP
+taolagnaro,Taolagnaro,2025,3,0,0.2370646173391915,1,FP
+taolagnaro,Taolagnaro,2025,4,0,0.2382560825882638,1,FP
+taolagnaro,Taolagnaro,2025,5,0,0.2723260215819137,1,FP
+taolagnaro,Taolagnaro,2025,6,0,0.3950754863636885,1,FP
+taolagnaro,Taolagnaro,2025,7,0,0.240024081582991,1,FP
+taolagnaro,Taolagnaro,2025,8,1,0.1494030460967338,0,FN
+taolagnaro,Taolagnaro,2025,9,0,0.3219524486907999,1,FP
+taolagnaro,Taolagnaro,2025,10,0,0.2834311173566452,1,FP
+tsihombe,Tsihombe,2023,1,1,0.344697386231225,1,TP
+tsihombe,Tsihombe,2023,2,0,0.2774264794063223,1,FP
+tsihombe,Tsihombe,2023,3,0,0.1276723579645134,0,TN
+tsihombe,Tsihombe,2023,4,0,0.1579059629689961,0,TN
+tsihombe,Tsihombe,2023,5,0,0.0281063244843649,0,TN
+tsihombe,Tsihombe,2023,6,0,0.0670186471946892,0,TN
+tsihombe,Tsihombe,2023,7,0,0.0484478017379251,0,TN
+tsihombe,Tsihombe,2023,8,0,0.0505904811265096,0,TN
+tsihombe,Tsihombe,2023,9,0,0.2488618887224747,1,FP
+tsihombe,Tsihombe,2023,10,0,0.2334412097317997,1,FP
+tsihombe,Tsihombe,2023,11,0,0.137071135134983,0,TN
+tsihombe,Tsihombe,2023,12,1,0.2506585538308215,1,TP
+tsihombe,Tsihombe,2024,1,0,0.4774990980315097,1,FP
+tsihombe,Tsihombe,2024,2,0,0.4893439142334164,1,FP
+tsihombe,Tsihombe,2024,3,0,0.2420392928509743,1,FP
+tsihombe,Tsihombe,2024,4,0,0.1072174523379709,0,TN
+tsihombe,Tsihombe,2024,5,0,0.0515031112481975,0,TN
+tsihombe,Tsihombe,2024,6,0,0.107284566013844,0,TN
+tsihombe,Tsihombe,2024,7,0,0.0340085283188106,0,TN
+tsihombe,Tsihombe,2024,8,0,0.0749062599322308,0,TN
+tsihombe,Tsihombe,2024,9,0,0.1127292367086672,0,TN
+tsihombe,Tsihombe,2024,10,0,0.2218314319971907,1,FP
+tsihombe,Tsihombe,2024,11,1,0.1934122614667065,0,FN
+tsihombe,Tsihombe,2024,12,1,0.6017107306663916,1,TP
+tsihombe,Tsihombe,2025,1,0,0.6729077115013221,1,FP
+tsihombe,Tsihombe,2025,2,0,0.3998243877920192,1,FP
+tsihombe,Tsihombe,2025,3,0,0.1795054716926998,0,TN
+tsihombe,Tsihombe,2025,4,0,0.073511995127326,0,TN
+tsihombe,Tsihombe,2025,5,0,0.0656162151609093,0,TN
+tsihombe,Tsihombe,2025,6,0,0.093447911937242,0,TN
+tsihombe,Tsihombe,2025,7,0,0.1221447522515846,0,TN
+tsihombe,Tsihombe,2025,8,0,0.0888229099300606,0,TN
+tsihombe,Tsihombe,2025,9,0,0.0923818460868239,0,TN
+tsihombe,Tsihombe,2025,10,0,0.103599495450822,0,TN

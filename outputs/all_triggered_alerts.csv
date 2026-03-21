@@ -1,0 +1,221 @@
+district_id,district_name,year,month,drought_next_actual,drought_risk_prob,drought_alert
+taolagnaro,Taolagnaro,2024,12,1,0.8384135022916933,1
+ambovombe_androy,Ambovombe-Androy,2025,1,0,0.793389674765781,1
+betioky_atsimo,Betioky Atsimo,2023,12,1,0.791554432490494,1
+amboasary_atsimo,Amboasary-Atsimo,2025,1,0,0.7386559588323451,1
+ambovombe_androy,Ambovombe-Androy,2024,12,1,0.7061834374746829,1
+ampanihy_ouest,Ampanihy Ouest,2024,1,0,0.6789458995079286,1
+tsihombe,Tsihombe,2025,1,0,0.6729077115013221,1
+betioky_atsimo,Betioky Atsimo,2024,1,0,0.6616441277555422,1
+amboasary_atsimo,Amboasary-Atsimo,2024,12,1,0.6464268856130645,1
+bekily,Bekily,2025,1,0,0.6325461010273294,1
+betioky_atsimo,Betioky Atsimo,2023,11,1,0.6325013873031463,1
+ambovombe_androy,Ambovombe-Androy,2024,2,0,0.6262426134693826,1
+taolagnaro,Taolagnaro,2024,11,1,0.6201196547053598,1
+benenitra,Benenitra,2025,1,0,0.6113312840351275,1
+tsihombe,Tsihombe,2024,12,1,0.6017107306663916,1
+beroroha,Beroroha,2023,12,0,0.5973761040330278,1
+beloha,Beloha,2025,1,0,0.5952487232099443,1
+ambovombe_androy,Ambovombe-Androy,2023,12,1,0.5921053538959913,1
+betioky_atsimo,Betioky Atsimo,2025,1,0,0.5887502636671901,1
+betroka,Betroka,2023,12,0,0.5862857783591798,1
+beroroha,Beroroha,2024,1,0,0.5773635148480358,1
+taolagnaro,Taolagnaro,2023,12,1,0.5672990874979719,1
+bekily,Bekily,2024,12,0,0.558934589053794,1
+betioky_atsimo,Betioky Atsimo,2024,12,0,0.555408749681754,1
+taolagnaro,Taolagnaro,2023,11,1,0.5508316531464533,1
+sakaraha,Sakaraha,2023,12,0,0.5430019696253688,1
+betroka,Betroka,2025,1,0,0.5358031070274768,1
+bekily,Bekily,2024,2,0,0.5332277683074846,1
+amboasary_atsimo,Amboasary-Atsimo,2024,2,0,0.525848201615678,1
+beloha,Beloha,2024,12,0,0.5254002654350606,1
+taolagnaro,Taolagnaro,2024,10,0,0.5247963750660909,1
+ampanihy_ouest,Ampanihy Ouest,2025,1,0,0.5174438341913918,1
+ampanihy_ouest,Ampanihy Ouest,2024,12,0,0.5161870987718409,1
+beloha,Beloha,2024,2,0,0.5133561374732553,1
+ampanihy_ouest,Ampanihy Ouest,2024,2,0,0.5120113475333141,1
+morombe,Morombe,2025,1,0,0.5102332883851667,1
+benenitra,Benenitra,2024,1,0,0.5052685951758256,1
+benenitra,Benenitra,2023,12,0,0.5042558379066148,1
+morombe,Morombe,2023,12,1,0.500116545820942,1
+sakaraha,Sakaraha,2023,11,1,0.4934037503065681,1
+taolagnaro,Taolagnaro,2025,1,1,0.4918274629409082,1
+tsihombe,Tsihombe,2024,2,0,0.4893439142334164,1
+taolagnaro,Taolagnaro,2024,1,1,0.4842345321067332,1
+beloha,Beloha,2024,1,0,0.4803887639548091,1
+benenitra,Benenitra,2024,2,0,0.4802638998226053,1
+betioky_atsimo,Betioky Atsimo,2024,2,0,0.4799745771518099,1
+tsihombe,Tsihombe,2024,1,0,0.4774990980315097,1
+ankazoabo,Ankazoabo,2023,12,0,0.4730834789244644,1
+benenitra,Benenitra,2023,11,1,0.4661827861479861,1
+ambovombe_androy,Ambovombe-Androy,2024,1,0,0.4630927830070888,1
+sakaraha,Sakaraha,2024,12,0,0.4619090269919756,1
+ambovombe_androy,Ambovombe-Androy,2025,2,0,0.4564543049298482,1
+taolagnaro,Taolagnaro,2023,9,0,0.4491444582718998,1
+amboasary_atsimo,Amboasary-Atsimo,2024,9,0,0.44874422300746,1
+bekily,Bekily,2023,12,1,0.4480591238160118,1
+ampanihy_ouest,Ampanihy Ouest,2023,12,1,0.444407072433251,1
+morombe,Morombe,2024,12,0,0.4419891435132296,1
+amboasary_atsimo,Amboasary-Atsimo,2024,11,1,0.4409201487018622,1
+benenitra,Benenitra,2023,1,0,0.4392207398902616,1
+ankazoabo,Ankazoabo,2025,1,0,0.4369663914866832,1
+amboasary_atsimo,Amboasary-Atsimo,2023,9,0,0.4267696257687983,1
+betroka,Betroka,2024,12,0,0.4265357220201444,1
+amboasary_atsimo,Amboasary-Atsimo,2023,12,1,0.4249659810977023,1
+ambovombe_androy,Ambovombe-Androy,2024,5,1,0.4233635975644901,1
+benenitra,Benenitra,2023,2,0,0.4208363060964399,1
+ankazoabo,Ankazoabo,2023,1,0,0.4191199593885685,1
+beroroha,Beroroha,2025,1,0,0.4184111673841953,1
+sakaraha,Sakaraha,2025,1,0,0.4138793132642652,1
+bekily,Bekily,2023,9,0,0.4134780964526707,1
+morombe,Morombe,2023,1,0,0.4125323893665283,1
+betroka,Betroka,2023,1,0,0.4119431825848534,1
+amboasary_atsimo,Amboasary-Atsimo,2024,1,0,0.4048439074785352,1
+benenitra,Benenitra,2024,12,0,0.4013170529407525,1
+beroroha,Beroroha,2023,1,1,0.4004558132105248,1
+ankazoabo,Ankazoabo,2024,12,0,0.3998978389436786,1
+tsihombe,Tsihombe,2025,2,0,0.3998243877920192,1
+taolagnaro,Taolagnaro,2025,6,0,0.3950754863636885,1
+taolagnaro,Taolagnaro,2024,9,0,0.394295658063922,1
+beloha,Beloha,2023,12,1,0.3917009688240357,1
+ambovombe_androy,Ambovombe-Androy,2024,11,1,0.3910723830900669,1
+sakaraha,Sakaraha,2024,1,0,0.3893996449882946,1
+amboasary_atsimo,Amboasary-Atsimo,2024,10,0,0.3887681980885272,1
+betioky_atsimo,Betioky Atsimo,2024,10,0,0.3870088177143382,1
+taolagnaro,Taolagnaro,2023,10,0,0.3852218418396978,1
+amboasary_atsimo,Amboasary-Atsimo,2023,6,0,0.3851126453581794,1
+taolagnaro,Taolagnaro,2023,1,1,0.3842759004433407,1
+taolagnaro,Taolagnaro,2024,6,0,0.38264002512833,1
+ankazoabo,Ankazoabo,2023,11,1,0.3807381880653032,1
+betioky_atsimo,Betioky Atsimo,2023,9,0,0.3770612450294934,1
+bekily,Bekily,2023,2,0,0.3755293340100008,1
+beroroha,Beroroha,2024,12,0,0.3748220133566463,1
+amboasary_atsimo,Amboasary-Atsimo,2025,2,0,0.3745232532877631,1
+amboasary_atsimo,Amboasary-Atsimo,2025,6,0,0.373437245995762,1
+bekily,Bekily,2023,11,1,0.3709130347810396,1
+ambovombe_androy,Ambovombe-Androy,2023,2,0,0.3668951146885915,1
+bekily,Bekily,2024,1,0,0.3655379162288155,1
+beloha,Beloha,2024,11,1,0.3655162367258002,1
+betroka,Betroka,2024,1,0,0.3624677044208515,1
+morombe,Morombe,2024,2,0,0.3610739840268844,1
+ambovombe_androy,Ambovombe-Androy,2023,9,0,0.358298554862537,1
+morombe,Morombe,2024,1,1,0.358065381286395,1
+sakaraha,Sakaraha,2023,10,1,0.3569447238663426,1
+ankazoabo,Ankazoabo,2024,1,0,0.3563913235574451,1
+sakaraha,Sakaraha,2023,1,0,0.3537909756576898,1
+taolagnaro,Taolagnaro,2024,5,0,0.3521305875951113,1
+ampanihy_ouest,Ampanihy Ouest,2023,2,0,0.3515997324075114,1
+beroroha,Beroroha,2023,11,1,0.3502104628050622,1
+sakaraha,Sakaraha,2024,9,0,0.3474693333263575,1
+tsihombe,Tsihombe,2023,1,1,0.344697386231225,1
+betroka,Betroka,2023,2,0,0.3414638000016257,1
+beloha,Beloha,2025,2,0,0.3406869198828381,1
+ampanihy_ouest,Ampanihy Ouest,2024,10,1,0.3350607636241893,1
+ampanihy_ouest,Ampanihy Ouest,2024,11,1,0.3320310805998291,1
+ankazoabo,Ankazoabo,2024,2,0,0.3308714205796708,1
+ambovombe_androy,Ambovombe-Androy,2024,9,0,0.3306774852737302,1
+beloha,Beloha,2024,10,1,0.3290385925798015,1
+amboasary_atsimo,Amboasary-Atsimo,2024,8,0,0.3285952905245015,1
+sakaraha,Sakaraha,2025,10,0,0.3250927184785409,1
+morombe,Morombe,2023,11,1,0.3224424160534913,1
+taolagnaro,Taolagnaro,2025,9,0,0.3219524486907999,1
+betroka,Betroka,2023,11,1,0.3194739623028442,1
+amboasary_atsimo,Amboasary-Atsimo,2025,9,0,0.3169734615007306,1
+amboasary_atsimo,Amboasary-Atsimo,2023,1,1,0.3129182913638761,1
+betioky_atsimo,Betioky Atsimo,2023,2,0,0.3120914381500517,1
+amboasary_atsimo,Amboasary-Atsimo,2024,6,0,0.3120733369026978,1
+betioky_atsimo,Betioky Atsimo,2025,10,0,0.3085235486753636,1
+taolagnaro,Taolagnaro,2025,2,0,0.306227813051922,1
+taolagnaro,Taolagnaro,2023,6,1,0.3035846879964104,1
+betioky_atsimo,Betioky Atsimo,2025,2,0,0.3034646321040352,1
+ambovombe_androy,Ambovombe-Androy,2023,1,1,0.3007745726162162,1
+bekily,Bekily,2025,9,0,0.3000043501052395,1
+betioky_atsimo,Betioky Atsimo,2024,9,0,0.2979897929403925,1
+sakaraha,Sakaraha,2024,2,0,0.2953399264031069,1
+benenitra,Benenitra,2025,2,0,0.2944723695742264,1
+beloha,Beloha,2023,2,0,0.293603950114269,1
+ankazoabo,Ankazoabo,2025,2,1,0.2932335083100425,1
+betroka,Betroka,2023,9,0,0.2914220180018505,1
+amboasary_atsimo,Amboasary-Atsimo,2023,11,0,0.2900908980647431,1
+betroka,Betroka,2025,9,1,0.2865968595446327,1
+ambovombe_androy,Ambovombe-Androy,2024,10,0,0.2853943678516777,1
+betroka,Betroka,2024,9,1,0.2852609880194247,1
+betioky_atsimo,Betioky Atsimo,2023,10,1,0.2841940627239134,1
+taolagnaro,Taolagnaro,2025,10,0,0.2834311173566452,1
+ampanihy_ouest,Ampanihy Ouest,2024,9,0,0.2814914700279866,1
+taolagnaro,Taolagnaro,2024,2,0,0.2792239138765507,1
+betroka,Betroka,2024,10,0,0.2782080069707331,1
+tsihombe,Tsihombe,2023,2,0,0.2774264794063223,1
+amboasary_atsimo,Amboasary-Atsimo,2023,2,0,0.2753309978283872,1
+betroka,Betroka,2025,2,0,0.275042082592173,1
+taolagnaro,Taolagnaro,2023,4,1,0.2738328147597695,1
+amboasary_atsimo,Amboasary-Atsimo,2023,10,0,0.273299401370445,1
+taolagnaro,Taolagnaro,2025,5,0,0.2723260215819137,1
+benenitra,Benenitra,2025,9,1,0.2688714706476953,1
+taolagnaro,Taolagnaro,2024,3,1,0.2675452393893018,1
+bekily,Bekily,2023,1,0,0.2668740128129825,1
+benenitra,Benenitra,2023,10,1,0.2659620706351616,1
+sakaraha,Sakaraha,2025,9,1,0.2646158664178144,1
+bekily,Bekily,2024,10,0,0.2644790311364213,1
+beloha,Beloha,2024,9,0,0.2629723654811627,1
+taolagnaro,Taolagnaro,2023,2,0,0.2625713529244255,1
+betroka,Betroka,2024,2,0,0.2614564360167769,1
+benenitra,Benenitra,2023,9,1,0.2607017513290012,1
+sakaraha,Sakaraha,2023,9,1,0.2601469064853336,1
+betioky_atsimo,Betioky Atsimo,2024,11,1,0.2571039592182126,1
+benenitra,Benenitra,2025,10,0,0.2563031930561564,1
+sakaraha,Sakaraha,2025,2,0,0.2538362505747767,1
+ambovombe_androy,Ambovombe-Androy,2023,11,1,0.253143903064677,1
+taolagnaro,Taolagnaro,2023,5,1,0.253004899954896,1
+amboasary_atsimo,Amboasary-Atsimo,2025,10,0,0.2523358407485138,1
+tsihombe,Tsihombe,2023,12,1,0.2506585538308215,1
+tsihombe,Tsihombe,2023,9,0,0.2488618887224747,1
+taolagnaro,Taolagnaro,2024,8,0,0.2470098158097576,1
+betioky_atsimo,Betioky Atsimo,2023,1,0,0.2448844428852533,1
+ampanihy_ouest,Ampanihy Ouest,2024,3,0,0.2440703847191074,1
+taolagnaro,Taolagnaro,2023,8,1,0.2439331000853173,1
+ambovombe_androy,Ambovombe-Androy,2024,6,0,0.2423479527762387,1
+tsihombe,Tsihombe,2024,3,0,0.2420392928509743,1
+beloha,Beloha,2023,9,0,0.2401263212513635,1
+betroka,Betroka,2023,10,1,0.2400416152593346,1
+taolagnaro,Taolagnaro,2025,7,0,0.240024081582991,1
+beroroha,Beroroha,2025,2,1,0.2399244370804644,1
+taolagnaro,Taolagnaro,2025,4,0,0.2382560825882638,1
+taolagnaro,Taolagnaro,2025,3,0,0.2370646173391915,1
+ampanihy_ouest,Ampanihy Ouest,2025,2,0,0.23506217425496,1
+taolagnaro,Taolagnaro,2023,7,0,0.233901928725245,1
+tsihombe,Tsihombe,2023,10,0,0.2334412097317997,1
+amboasary_atsimo,Amboasary-Atsimo,2023,8,1,0.2323920679954571,1
+sakaraha,Sakaraha,2023,2,0,0.232030923749602,1
+benenitra,Benenitra,2024,11,1,0.2293746787734183,1
+taolagnaro,Taolagnaro,2024,4,1,0.228911598584912,1
+sakaraha,Sakaraha,2024,10,0,0.228147758159328,1
+beroroha,Beroroha,2025,10,0,0.227024976986684,1
+ankazoabo,Ankazoabo,2023,10,1,0.2269534382778666,1
+ankazoabo,Ankazoabo,2023,9,1,0.2240723495556251,1
+ankazoabo,Ankazoabo,2023,2,0,0.2238497367856055,1
+betroka,Betroka,2025,10,0,0.2238181879427541,1
+ankazoabo,Ankazoabo,2025,10,0,0.222967539704167,1
+benenitra,Benenitra,2024,10,0,0.222792874205479,1
+beroroha,Beroroha,2024,2,0,0.2223312565663504,1
+tsihombe,Tsihombe,2024,10,0,0.2218314319971907,1
+ampanihy_ouest,Ampanihy Ouest,2023,9,0,0.2215216839984273,1
+bekily,Bekily,2024,11,1,0.2187008332798467,1
+bekily,Bekily,2025,10,0,0.2182075068817081,1
+ampanihy_ouest,Ampanihy Ouest,2023,11,1,0.2175329848358438,1
+ampanihy_ouest,Ampanihy Ouest,2023,1,0,0.2167182078137556,1
+taolagnaro,Taolagnaro,2023,3,1,0.2151777176829716,1
+bekily,Bekily,2024,9,0,0.2132688394274964,1
+benenitra,Benenitra,2024,9,0,0.2120629985498357,1
+betioky_atsimo,Betioky Atsimo,2025,9,1,0.2120427809408854,1
+beloha,Beloha,2023,1,1,0.2113340974897138,1
+benenitra,Benenitra,2023,3,0,0.2106993678002499,1
+morombe,Morombe,2025,2,0,0.2097362232510743,1
+sakaraha,Sakaraha,2024,11,1,0.2088500033080443,1
+betroka,Betroka,2025,4,0,0.2085835419818877,1
+betroka,Betroka,2024,11,1,0.207955919301761,1
+ankazoabo,Ankazoabo,2024,9,0,0.2047987813970437,1
+bekily,Bekily,2025,2,0,0.2047068329951636,1
+beroroha,Beroroha,2023,2,0,0.2043743811366126,1
+ambovombe_androy,Ambovombe-Androy,2023,10,0,0.2027240875104846,1
+ambovombe_androy,Ambovombe-Androy,2025,10,0,0.2021478841311625,1

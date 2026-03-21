@@ -1,0 +1,16 @@
+﻿venv/
+__pycache__/
+*.pyc
+.env
+
+data/raw/
+data/processed/
+
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+*.zip
+
+.ipynb_checkpoints/

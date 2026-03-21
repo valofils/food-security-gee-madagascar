@@ -1,0 +1,20 @@
+# create a virtual environment
+python -m venv venv
+# activate the virtual environment just created
+venv\Scripts\activate
+# Install dependencies
+pip install earthengine-api geemap python-dotenv
+# write them in the requirements.txt
+pip freeze > requirements.txt
+
+# Initialize git properly
+git init
+git add .
+git commit -m "Initial project structure with environment setup"
+git push
+
+git remote add origin https://github.com/valofils/food-security-gee-madagascar
+git remote -v
+git branch -M main
+git pull origin main --allow-unrelated-histories
+git push -u origin main
