@@ -1,21 +1,21 @@
 district_id,district_name,year,month,drought_next_actual,drought_risk_prob,drought_alert
-taolagnaro,Taolagnaro,2024,12,1,0.8384135022916933,1
-ambovombe_androy,Ambovombe-Androy,2025,1,0,0.793389674765781,1
-betioky_atsimo,Betioky Atsimo,2023,12,1,0.791554432490494,1
-amboasary_atsimo,Amboasary-Atsimo,2025,1,0,0.7386559588323451,1
-ambovombe_androy,Ambovombe-Androy,2024,12,1,0.7061834374746829,1
-ampanihy_ouest,Ampanihy Ouest,2024,1,0,0.6789458995079286,1
-tsihombe,Tsihombe,2025,1,0,0.6729077115013221,1
-betioky_atsimo,Betioky Atsimo,2024,1,0,0.6616441277555422,1
-amboasary_atsimo,Amboasary-Atsimo,2024,12,1,0.6464268856130645,1
-bekily,Bekily,2025,1,0,0.6325461010273294,1
-betioky_atsimo,Betioky Atsimo,2023,11,1,0.6325013873031463,1
-ambovombe_androy,Ambovombe-Androy,2024,2,0,0.6262426134693826,1
-taolagnaro,Taolagnaro,2024,11,1,0.6201196547053598,1
-benenitra,Benenitra,2025,1,0,0.6113312840351275,1
-tsihombe,Tsihombe,2024,12,1,0.6017107306663916,1
-beroroha,Beroroha,2023,12,0,0.5973761040330278,1
-beloha,Beloha,2025,1,0,0.5952487232099443,1
-ambovombe_androy,Ambovombe-Androy,2023,12,1,0.5921053538959913,1
-betioky_atsimo,Betioky Atsimo,2025,1,0,0.5887502636671901,1
-betroka,Betroka,2023,12,0,0.5862857783591798,1
+taolagnaro,Taolagnaro,2024,12,1,0.8474441650556575,1
+ambovombe_androy,Ambovombe-Androy,2025,1,0,0.7881134592428695,1
+betioky_atsimo,Betioky Atsimo,2023,12,1,0.7819933622181293,1
+amboasary_atsimo,Amboasary-Atsimo,2025,1,0,0.7325216748247939,1
+ambovombe_androy,Ambovombe-Androy,2024,12,1,0.7155885633743693,1
+ampanihy_ouest,Ampanihy Ouest,2024,1,0,0.6851992733471569,1
+betioky_atsimo,Betioky Atsimo,2024,1,0,0.6784310654368018,1
+amboasary_atsimo,Amboasary-Atsimo,2024,12,1,0.6569305412720782,1
+bekily,Bekily,2025,1,0,0.6469065962681168,1
+tsihombe,Tsihombe,2025,1,0,0.6369014697095222,1
+tsihombe,Tsihombe,2024,12,1,0.626946880364437,1
+taolagnaro,Taolagnaro,2024,11,1,0.6267293939065887,1
+ambovombe_androy,Ambovombe-Androy,2024,2,0,0.6248419922003479,1
+ambovombe_androy,Ambovombe-Androy,2023,12,1,0.6134818593329786,1
+beloha,Beloha,2025,1,0,0.6073147519877096,1
+betioky_atsimo,Betioky Atsimo,2023,11,1,0.6039604524051866,1
+benenitra,Benenitra,2025,1,0,0.6000219633466175,1
+beroroha,Beroroha,2023,12,0,0.5932391570069078,1
+betioky_atsimo,Betioky Atsimo,2025,1,0,0.5841437992770478,1
+betroka,Betroka,2023,12,0,0.58281294688071,1

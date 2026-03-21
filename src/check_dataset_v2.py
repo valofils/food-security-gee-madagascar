@@ -1,30 +1,46 @@
 import pandas as pd
 
-df = pd.read_csv("data/processed/grand_sud_monthly_features_v2.csv")
 
-print("Shape:", df.shape)
-print("\nColumns:", df.columns.tolist())
+INPUT_PATH = "data/processed/grand_sud_monthly_features_v2.csv"
+OUTPUT_PATH = "data/processed/grand_sud_dataset_v2.csv"
 
-print("\nDistricts:", df["district_name"].nunique())
-print("Date range:", df["date"].min(), "->", df["date"].max())
 
-drop_if_exists = [c for c in ["system:index", ".geo"] if c in df.columns]
-if drop_if_exists:
-    print("\nDropping helper columns:", drop_if_exists)
-    df = df.drop(columns=drop_if_exists)
+def main():
+    df = pd.read_csv(INPUT_PATH)
 
-print("\nMissing values:")
-print(df.isna().sum())
+    print("Shape:", df.shape)
+    print("\nColumns:", df.columns.tolist())
 
-print("\nSummary:")
-print(df[[
-    "ndvi_mean",
-    "rainfall_total_mm",
-    "lst_day_mean_c",
-    "et_total_mm",
-    "ndvi_anomaly",
-    "rainfall_anomaly_mm"
-]].describe())
+    if "district_name" in df.columns:
+        print("\nDistricts:", df["district_name"].nunique())
+    if "date" in df.columns:
+        print("Date range:", df["date"].min(), "->", df["date"].max())
 
-df.to_csv("data/processed/grand_sud_dataset_v2.csv", index=False)
-print("\nSaved cleaned file: data/processed/grand_sud_dataset_v2.csv")
+    drop_if_exists = [c for c in ["system:index", ".geo"] if c in df.columns]
+    if drop_if_exists:
+        print("\nDropping helper columns:", drop_if_exists)
+        df = df.drop(columns=drop_if_exists)
+
+    print("\nMissing values:")
+    print(df.isna().sum())
+
+    summary_cols = [
+        "ndvi_mean",
+        "rainfall_total_mm",
+        "lst_day_mean_c",
+        "et_total_mm",
+        "ndvi_anomaly",
+        "rainfall_anomaly_mm",
+    ]
+    available_summary_cols = [c for c in summary_cols if c in df.columns]
+
+    if available_summary_cols:
+        print("\nSummary:")
+        print(df[available_summary_cols].describe())
+
+    df.to_csv(OUTPUT_PATH, index=False)
+    print(f"\nSaved cleaned file: {OUTPUT_PATH}")
+
+
+if __name__ == "__main__":
+    main()

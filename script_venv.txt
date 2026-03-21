@@ -1,7 +1,7 @@
 # create a virtual environment
 python -m venv venv
 # activate the virtual environment just created
-venv\Scripts\activate
+.\venv\Scripts\Activate
 # Install dependencies
 pip install earthengine-api geemap python-dotenv
 # write them in the requirements.txt
